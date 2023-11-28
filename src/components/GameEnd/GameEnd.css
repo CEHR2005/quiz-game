@@ -1,0 +1,83 @@
+.game-end-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}
+
+.winner-announcement {
+    font-size: 1.5em;
+    color: #d4af37;
+    margin: 10px 0;
+}
+
+.results-list {
+    list-style-type: none;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.results-list li {
+    margin: 5px 0;
+    padding: 5px;
+}
+
+.buttons-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+}
+
+.new-game-button,
+.review-button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.new-game-button {
+    background-color: #28a745;
+    color: white;
+}
+
+.new-game-button:hover {
+    background-color: #218838;
+}
+
+.review-container {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.review-question {
+    font-weight: bold;
+}
+
+.review-answer {
+    margin-left: 20px;
+    color: green;
+}
+
+.review-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.review-button:hover {
+    background-color: #0056b3;
+}

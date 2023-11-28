@@ -1,0 +1,302 @@
+[
+  {
+    "category": "HTML",
+    "questions": [
+      {
+        "question": "What does the abbreviation HTML stand for?",
+        "answers": ["Hyper Trainer Marking Language", "Hyper Text Markup Language", "Hyperlinks Text Mark Language", "Hyperlinking Text Marking Language"],
+        "correct": "Hyper Text Markup Language"
+      },
+      {
+        "question": "What HTML element is used to create a first-level heading?",
+        "answers": ["<h1>", "<header>", "<h2>", "<title>"],
+        "correct": "<h1>"
+      },
+      {
+        "question": "What does the <a> tag do in HTML?",
+        "answers": ["Creates a paragraph of text", "Formats text in bold", "Creates a hyperlink", "Defines a table"],
+        "correct": "Creates a hyperlink"
+      },
+      {
+        "question": "Which HTML tag is used to create an unordered list?",
+        "answers": ["<ul>", "<li>", "<ol>", "<div>"],
+        "correct": "<ul>"
+      },
+      {
+        "question": "Which tag is used to create a link in HTML?",
+        "answers": ["<link>", "<a>", "<href>", "<url>"],
+        "correct": "<a>"
+      },
+      {
+        "question": "What does the <br> tag in HTML mean?",
+        "answers": ["Paragraph", "Line break", "Bold text", "Heading"],
+        "correct": "Line break"
+      },
+      {
+        "question": "How can you insert a comment in HTML code?",
+        "answers": ["<!-- This is a comment -->", "// This is a comment", "/* This is a comment */", "# This is a comment"],
+        "correct": "<!-- This is a comment -->"
+      },
+      {
+        "question": "Which tag is used to create an ordered list in HTML?",
+        "answers": ["<ol>", "<ul>", "<li>", "<dl>"],
+        "correct": "<ol>"
+      },
+      {
+        "question": "What does the abbreviation DOCTYPE mean at the beginning of an HTML document?",
+        "answers": ["Document Type", "Document Coding Type", "Document Container Type", "Document Content Type"],
+        "correct": "Document Type"
+      },
+      {
+        "question": "What is the purpose of the <head> element in an HTML document?",
+        "answers": ["It contains the main content of the page.", "It defines the structure of the page.", "It provides metadata about the document.", "It creates a hyperlink."],
+        "correct": "It provides metadata about the document."
+      },
+      {
+        "question": "How can you create a hyperlink to an external website in HTML?",
+        "answers": ["<a href='https://www.example.com'>Click here</a>", "<link to='https://www.example.com'>Visit website</link>", "<a link='https://www.example.com'>Go to site</a>", "<a src='https://www.example.com'>Open link</a>"],
+        "correct": "<a href='https://www.example.com'>Click here</a>"
+      },
+      {
+        "question": "What does the <img> tag do in HTML?",
+        "answers": ["It displays a video.", "It embeds a sound file.", "It embeds an image.", "It creates a table."],
+        "correct": "It embeds an image."
+      },
+      {
+        "question": "Which HTML tag is used to create a hyperlink that opens in a new tab or window?",
+        "answers": ["<a href='https://www.example.com' target='_blank'>Link</a>", "<a href='https://www.example.com' target='_new'>Link</a>", "<a href='https://www.example.com' target='newtab'>Link</a>", "<a href='https://www.example.com' target='_self'>Link</a>"],
+        "correct": "<a href='https://www.example.com' target='_blank'>Link</a>"
+      },
+      {
+        "question": "What is the purpose of the <div> element in HTML?",
+        "answers": ["It defines a list of items.", "It creates a hyperlink.", "It groups content for styling.", "It displays a video."],
+        "correct": "It groups content for styling."
+      },
+      {
+        "question": "How can you add a comment that will not be displayed on the webpage in HTML?",
+        "answers": ["<!-- This is a hidden comment -->", "// This is a hidden comment", "/* This is a hidden comment */", "# This is a hidden comment"],
+        "correct": "<!-- This is a hidden comment -->"
+      },
+      {
+        "question": "What is the purpose of the <table> element in HTML?",
+        "answers": ["It defines a section of text.", "It groups content for styling.", "It creates a table of data.", "It displays a video."],
+        "correct": "It creates a table of data."
+      },
+      {
+        "question": "Which HTML tag is used to define a list item in an ordered list (<ol>)?",
+        "answers": ["<li>", "<ol>", "<ul>", "<dl>"],
+        "correct": "<li>"
+      },
+      {
+        "question": "What does the HTML <em> tag represent?",
+        "answers": ["It defines a strong emphasis on text.", "It defines italicized text.", "It defines a section of text.", "It creates a hyperlink."],
+        "correct": "It defines italicized text."
+      },
+      {
+        "question": "How can you create a line break in HTML without starting a new paragraph?",
+        "answers": ["<lb>", "<linebreak>", "<br>", "<newline>"],
+        "correct": "<br>"
+      }
+    ]
+  },
+  {
+    "category": "CSS",
+    "questions": [
+      {
+        "question": "What does CSS stand for?",
+        "answers": ["Cascading Style Sheets", "Computing Style Sheet", "Creative Style System", "Computer Styled Sections"],
+        "correct": "Cascading Style Sheets"
+      },
+      {
+        "question": "How can you change the text color in CSS?",
+        "answers": ["text-color", "font-color", "color", "text-style"],
+        "correct": "color"
+      },
+      {
+        "question": "Which property is used to set the width of an element's border in CSS?",
+        "answers": ["border-size", "border-width", "border-style", "border-length"],
+        "correct": "border-width"
+      },
+      {
+        "question": "How do you set a background image for an element in CSS?",
+        "answers": ["background-image", "image-url", "element-background", "background-source"],
+        "correct": "background-image"
+      },
+      {
+        "question": "How do you set the background color of an element in CSS?",
+        "answers": ["background-color", "color", "text-color", "element-background"],
+        "correct": "background-color"
+      },
+      {
+        "question": "How can you make text bold in CSS?",
+        "answers": ["text-style: bold;", "font-weight: bold;", "text-bold: true;", "bold: text;"],
+        "correct": "font-weight: bold;"
+      },
+      {
+        "question": "How do you specify margins around an element in CSS?",
+        "answers": ["padding", "margin", "border", "spacing"],
+        "correct": "margin"
+      },
+      {
+        "question": "How do you change the font size in CSS?",
+        "answers": ["font-size", "text-size", "font-style", "size-font"],
+        "correct": "font-size"
+      },
+      {
+        "question": "What does the abbreviation CSS mean in the context of styles?",
+        "answers": ["Cascading Style Sheets", "Creative Style System", "Computer Styled Sections", "Coded Style System"],
+        "correct": "Cascading Style Sheets"
+      },
+      {
+        "question": "How do you change the font family of an element in CSS?",
+        "answers": ["font-family", "text-font", "font-style", "font-change"],
+        "correct": "font-family"
+      },
+      {
+        "question": "What property is used to set the text alignment in CSS?",
+        "answers": ["text-align", "alignment", "text-style", "align-text"],
+        "correct": "text-align"
+      },
+      {
+        "question": "How can you add a background color to an element in CSS?",
+        "answers": ["background-color", "color-background", "element-color", "bg-color"],
+        "correct": "background-color"
+      },
+      {
+        "question": "What CSS property is used to control the spacing between lines of text within an element?",
+        "answers": ["line-height", "text-spacing", "line-spacing", "text-line"],
+        "correct": "line-height"
+      },
+      {
+        "question": "How can you set the text to be underlined in CSS?",
+        "answers": ["text-decoration: underline;", "font-decoration: underline;", "underline-text: true;", "text-underline: yes;"],
+        "correct": "text-decoration: underline;"
+      },
+      {
+        "question": "What CSS property is used to control the spacing between elements?",
+        "answers": ["spacing", "margin", "padding", "border-spacing"],
+        "correct": "margin"
+      },
+      {
+        "question": "How can you make text italic in CSS?",
+        "answers": ["font-style: italic;", "text-italic: true;", "italic-text: yes;", "font-italic: true;"],
+        "correct": "font-style: italic;"
+      },
+      {
+        "question": "What is the purpose of the CSS 'display' property?",
+        "answers": ["It sets the font size.", "It controls how an element is displayed.", "It changes the text color.", "It sets the background color."],
+        "correct": "It controls how an element is displayed."
+      },
+      {
+        "question": "Which CSS property is used to control the width of an element's border?",
+        "answers": ["border-size", "border-width", "border-style", "border-length"],
+        "correct": "border-width"
+      },
+      {
+        "question": "How can you set the text to be in uppercase in CSS?",
+        "answers": ["text-transform: uppercase;", "uppercase-text: true;", "text-case: uppercase;", "transform-text: uppercase;"],
+        "correct": "text-transform: uppercase;"
+      }
+    ]
+  },
+  {
+    "category": "JavaScript",
+    "questions": [
+      {
+        "question": "What will be displayed in the console: console.log('1' + 2 + 3);",
+        "answers": ["123", "6", "undefined", "15"],
+        "correct": "123"
+      },
+      {
+        "question": "How do you declare a variable in JavaScript?",
+        "answers": ["let x;", "variable x;", "x = 5;", "var x;"],
+        "correct": "var x;"
+      },
+      {
+        "question": "What does the 'if' statement do in JavaScript?",
+        "answers": ["Creates a loop", "Defines a function", "Performs conditional code execution", "Assigns a value to a variable"],
+        "correct": "Performs conditional code execution"
+      },
+      {
+        "question": "How can you get a random number between 1 and 10 in JavaScript?",
+        "answers": ["Math.random(1, 10);", "randomNumber(1, 10);", "Math.floor(Math.random() * 10) + 1;", "random(1, 10);"],
+        "correct": "Math.floor(Math.random() * 10) + 1;"
+      },
+      {
+        "question": "How do you declare a constant in JavaScript?",
+        "answers": ["const x;", "let x;", "var x;", "constant x;"],
+        "correct": "const x;"
+      },
+      {
+        "question": "What does the 'for' loop do in JavaScript?",
+        "answers": ["Creates a function", "Performs conditional code execution", "Creates a loop", "Defines a variable"],
+        "correct": "Creates a loop"
+      },
+      {
+        "question": "How can you get the length of a string in JavaScript?",
+        "answers": ["string.length", "length(string)", "str.length()", "len(string)"],
+        "correct": "string.length"
+      },
+      {
+        "question": "How do you check if a variable's value is undefined in JavaScript?",
+        "answers": ["if (x === undefined)", "if (x == null)", "if (typeof x === 'undefined')", "if (x == undefined)"],
+        "correct": "if (typeof x === 'undefined')"
+      },
+      {
+        "question": "What does the 'parseInt' method do in JavaScript?",
+        "answers": ["Returns a floating-point number", "Converts a string to an integer", "Performs mathematical calculations", "Rounds a number to the nearest integer"],
+        "correct": "Converts a string to an integer"
+      },
+      {
+        "question": "What does the 'typeof' operator in JavaScript return for an array?",
+        "answers": ["array", "object", "number", "string"],
+        "correct": "object"
+      },
+      {
+        "question": "How do you declare a function in JavaScript?",
+        "answers": ["def function()", "function myFunction()", "create myFunction()", "let myFunction()"],
+        "correct": "function myFunction()"
+      },
+      {
+        "question": "What is the purpose of the 'return' statement in a JavaScript function?",
+        "answers": ["It defines a variable.", "It declares a function.", "It specifies the function's name.", "It specifies the value the function returns."],
+        "correct": "It specifies the value the function returns."
+      },
+      {
+        "question": "How do you add a comment in JavaScript?",
+        "answers": ["<!-- This is a comment -->", "// This is a comment", "/* This is a comment */", "# This is a comment"],
+        "correct": "// This is a comment"
+      },
+      {
+        "question": "What is the purpose of the 'NaN' value in JavaScript?",
+        "answers": ["It represents a valid number.", "It represents 'Not a Number'.", "It represents a string.", "It represents infinity."],
+        "correct": "It represents 'Not a Number'."
+      },
+      {
+        "question": "How do you round a number to the nearest integer in JavaScript?",
+        "answers": ["Math.round()", "Math.floor()", "Math.ceil()", "Math.random()"],
+        "correct": "Math.round()"
+      },
+      {
+        "question": "What is the result of the expression '5 + '5' in JavaScript?",
+        "answers": ["55", "10", "undefined", "25"],
+        "correct": "55"
+      },
+      {
+        "question": "How can you remove an element from an array in JavaScript?",
+        "answers": ["splice()", "remove()", "pop()", "slice()"],
+        "correct": "splice()"
+      },
+      {
+        "question": "What does the 'isNaN()' function in JavaScript check?",
+        "answers": ["If a variable is undefined.", "If a variable is a string.", "If a variable is an object.", "If a variable is not a valid number."],
+        "correct": "If a variable is not a valid number."
+      },
+      {
+        "question": "How do you declare a variable with constant value in JavaScript?",
+        "answers": ["let x;", "var x;", "const x;", "constant x;"],
+        "correct": "const x;"
+      }
+    ]
+  }
+]
